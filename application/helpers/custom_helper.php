@@ -8,7 +8,8 @@ if (!defined('BASEPATH')) exit('No direct script access allowed');
 if (!function_exists('hpBaseUrl')) {
     function hpBaseUrl()
     {
-        return 'http://127.0.0.1:8081';
+        //return 'http://127.0.0.1:8081';
+        return 'http://healthplus.life:8080';
     }
 }
 
